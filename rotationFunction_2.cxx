@@ -368,7 +368,7 @@ int main(int argc, char *argv[])
  	cout << "Matrix* CPU time: " <<(double)t/CLOCKS_PER_SEC<<" s"<<"\n";
 
 */
-    for (int z = 0; z < 600; z++)
+/*    for (int z = 0; z < 600; z++)
     {
         for (int y = 0; y < 512; y++)
         {
@@ -385,7 +385,7 @@ int main(int argc, char *argv[])
                 //dcmPtr2++;
             }
         }
-    }
+    }*/
 
 //    for (int z = 0; z < 600; z++)
 //    {
